@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:1.14.2
+        image: 823311675220.dkr.ecr.us-east-1.amazonaws.com/nginx:v_82
         ports:
         - containerPort: 80
